@@ -19,5 +19,7 @@ Utilize keychain to store gpg keys
 ## Manual Settings
 ITerm 2 - Color Scheme - https://raw.githubusercontent.com/mhartington/oceanic-next-iterm/master/Oceanic-Next.itermcolors
 
+## Link Sublime
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl subl
 
 
